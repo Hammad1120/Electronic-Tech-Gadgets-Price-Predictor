@@ -1,0 +1,379 @@
+Brand,Model,Operating System,Display Type,DialShape,StrapColor,Connectivity,Display Size (inches),Resolution,WaterResistance (meters),Heart Rate Monitor,GPS,NFC,Price_PKR
+Apple,Watch Series 7,watchOS,Retina,Rectangle,Grey,"Bluetooth, Wi-Fi, Cellular",1.9,396 x 484,30,Yes,Yes,Yes,107730
+Samsung,Galaxy Watch 4,Wear OS,AMOLED,Square,Grey,"Bluetooth, Wi-Fi, Cellular",1.4,450 x 450,30,Yes,Yes,Yes,67230
+Garmin,Venu 2,Garmin OS,AMOLED,Circle,Rose Gold,"Bluetooth, Wi-Fi",1.3,416 x 416,30,Yes,Yes,No,107730
+Fitbit,Versa 3,Fitbit OS,AMOLED,Rectangle,Black,"Bluetooth, Wi-Fi",1.58,336 x 336,10,Yes,Yes,Yes,61830
+Fossil,Gen 6,Wear OS,AMOLED,Rectangle,Grey,"Bluetooth, Wi-Fi",1.28,416 x 416,10,Yes,Yes,Yes,80730
+Huawei,Watch 3 Pro,HarmonyOS,AMOLED,Circle,White,"Bluetooth, Wi-Fi, Cellular",1.43,466 x 466,30,Yes,Yes,Yes,134730
+TicWatch,E3,Wear OS,IPS LCD,Circle,Rose Gold,"Bluetooth, Wi-Fi, Cellular",1.3,360 x 360,30,Yes,Yes,Yes,53730
+Oppo,Watch 2,ColorOS,AMOLED,Rectangle,Silver,"Bluetooth, Wi-Fi",1.75,372 x 430,5,Yes,Yes,Yes,53730
+Amazfit,GTR 3,Amazfit OS,AMOLED,Circle,Black,"Bluetooth, Wi-Fi",1.39,454 x 454,20,Yes,Yes,Yes,53730
+Skagen,Jorn Hybrid HR,,AMOLED,Circle,Grey,Bluetooth,,,30,Yes,No,No,52650
+Withings,ScanWatch,Withings OS,AMOLED,Rectangle,Rose Gold,Bluetooth,1.65,240 x 240,10,Yes,Yes,Yes,75330
+Timex,Metropolitan R,,AMOLED,Rectangle,White,Bluetooth,1.2,390 x 390,20,Yes,No,No,48330
+Suunto,7,Wear OS,AMOLED,Square,Rose Gold,"Bluetooth, Wi-Fi",1.39,454 x 454,30,Yes,Yes,Yes,134730
+Mobvoi,TicWatch Pro 3 GPS,Wear OS,AMOLED,Circle,Grey,"Bluetooth, Wi-Fi",1.4,454 x 454,30,Yes,Yes,Yes,80730
+Polar,Ignite 2,Polar OS,TFT LCD,Rectangle,Blue,"Bluetooth, Wi-Fi",1.2,240 x 240,5,Yes,Yes,Yes,61830
+Fitbit,Sense,Fitbit OS,AMOLED,Rectangle,White,"Bluetooth, Wi-Fi",1.58,336 x 336,10,Yes,Yes,Yes,80730
+Garmin,Forerunner 945 LTE,Garmin OS,Memory-in-pixel (MIP),Square,Black,"Bluetooth, Wi-Fi, Cellular",1.2,240 x 240,30,Yes,Yes,Yes,175230
+Apple,Watch SE,watchOS,Retina,Rectangle,Grey,"Bluetooth, Wi-Fi, Cellular",1.57,394 x 324,30,Yes,Yes,Yes,75330
+Samsung,Galaxy Watch 3,Tizen OS,Super AMOLED,Rectangle,Black,"Bluetooth, Wi-Fi, Cellular",1.4,360 x 360,20,Yes,Yes,Yes,94230
+Garmin,Venu Sq Music,Garmin OS,LCD,Circle,Black,"Bluetooth, Wi-Fi",1.3,240 x 240,20,Yes,Yes,Yes,67230
+Fitbit,Sense,Fitbit OS,AMOLED,Rectangle,Rose Gold,"Bluetooth, Wi-Fi",1.58,336 x 336,30,Yes,Yes,Yes,88830
+Fossil,Collider,Hybrid OS,Analog,Circle,White,"Bluetooth, Wi-Fi",,,30,Yes,No,Yes,52650
+Huawei,Watch GT 2 Pro,Lite OS,AMOLED,Circle,Silver,"Bluetooth, Wi-Fi, Cellular",1.39,454 x 454,30,Yes,Yes,No,80730
+Amazfit,GTR 2,Amazfit OS,AMOLED,Rectangle,Black,"Bluetooth, Wi-Fi",1.39,454 x 454,30,Yes,Yes,Yes,48330
+TicWatch,Pro 3 GPS,Wear OS,AMOLED,Circle,White,"Bluetooth, Wi-Fi",1.4,454 x 454,20,Yes,Yes,Yes,80730
+Skagen,Falster 3,Wear OS,AMOLED,Circle,Black,"Bluetooth, Wi-Fi",1.3,416 x 416,10,Yes,Yes,Yes,79650
+Mobvoi,TicWatch E3,Wear OS,LCD,Circle,White,"Bluetooth, Wi-Fi",1.3,360 x 360,30,Yes,Yes,Yes,53730
+Garmin,Lily,Garmin OS,LCD,Circle,White,"Bluetooth, Wi-Fi",1,240 x 201,20,Yes,Yes,Yes,53730
+Apple,Watch SE,watchOS,Retina,Square,Grey,"Bluetooth, Wi-Fi, Cellular",1.78,368 x 448,30,Yes,Yes,Yes,75330
+Samsung,Galaxy Watch 3,Tizen,AMOLED,Rectangle,Black,"Bluetooth, Wi-Fi, Cellular",1.4,360 x 360,30,Yes,Yes,Yes,107730
+Garmin,Forerunner 945,Garmin OS,Transflective,Circle,White,"Bluetooth, Wi-Fi",1.2,240 x 240,30,Yes,Yes,Yes,161730
+Fitbit,Sense,Fitbit OS,AMOLED,Circle,White,"Bluetooth, Wi-Fi",1.58,336 x 336,20,Yes,Yes,Yes,80730
+Fossil,Sport,Wear OS,AMOLED,Circle,Rose Gold,"Bluetooth, Wi-Fi",1.2,390 x 390,20,Yes,Yes,Yes,68850
+Huawei,Watch GT2 Pro,Lite OS,AMOLED,Rectangle,Black,"Bluetooth, Wi-Fi",1.39,454 x 454,20,Yes,Yes,Yes,80730
+Amazfit,GTR 2e,Amazfit OS,AMOLED,Square,Rose Gold,"Bluetooth, Wi-Fi",1.39,454 x 454,20,Yes,Yes,Yes,37530
+Ticwatch,Pro 4G/LTE,Wear OS,OLED,Square,Blue,"Bluetooth, Wi-Fi, Cellular",1.39,400 x 400,20,Yes,Yes,Yes,80730
+Polar,Vantage V2,Polar OS,Gorilla Glass,Circle,Blue,"Bluetooth, Wi-Fi",1.2,240 x 240,30,Yes,Yes,Yes,134730
+Xiaomi,Mi Watch,Wear OS,AMOLED,Rectangle,Silver,"Bluetooth, Wi-Fi",1.39,454 x 454,30,Yes,Yes,Yes,48330
+Suunto,9 Peak,Suunto OS,Transflective,Circle,White,"Bluetooth, Wi-Fi",1.4,360 x 360,5,Yes,Yes,Yes,134730
+Apple,Watch SE,watchOS,Retina,Circle,Grey,"Bluetooth, Wi-Fi, Cellular",1.57,324 x 394,30,Yes,Yes,Yes,75330
+Samsung,Galaxy Watch Active 2,Tizen OS,Super AMOLED,Rectangle,Blue,"Bluetooth, Wi-Fi",1.4,360 x 360,20,Yes,Yes,Yes,67230
+Garmin,Forerunner 945,Garmin OS,Transflective,Rectangle,Blue,"Bluetooth, Wi-Fi",1.2,240 x 240,20,Yes,Yes,Yes,161730
+Fitbit,Sense,Fitbit OS,AMOLED,Rectangle,Rose Gold,"Bluetooth, Wi-Fi",1.58,336 x 336,5,Yes,Yes,Yes,88830
+Fossil,Sport,Wear OS,AMOLED,Rectangle,Rose Gold,"Bluetooth, Wi-Fi",1.2,390 x 390,10,Yes,Yes,Yes,40230
+Huawei,Watch GT2 Pro,HarmonyOS,AMOLED,Circle,Black,"Bluetooth, Wi-Fi, Cellular",1.39,454 x 454,20,Yes,Yes,No,80730
+TicWatch,Pro 4G/LTE,Wear OS,AMOLED,Circle,Silver,"Bluetooth, Wi-Fi, Cellular",1.4,400 x 400,30,Yes,Yes,Yes,80730
+Suunto,7,Wear OS,AMOLED,Circle,Silver,"Bluetooth, Wi-Fi",1.39,454 x 454,10,Yes,Yes,Yes,129330
+Amazfit,GTR 2e,Amazfit OS,AMOLED,Circle,White,"Bluetooth, Wi-Fi",1.39,454 x 454,20,Yes,No,Yes,37530
+Polar,Vantage M,Polar OS,TFT LCD,Square,Silver,"Bluetooth, Wi-Fi",1.2,240 x 240,10,Yes,Yes,No,75330
+Xiaomi,Mi Watch Lite,Proprietary OS,TFT LCD,Circle,Black,"Bluetooth, Wi-Fi",1.4,320 x 320,30,Yes,Yes,Yes,15930
+Samsung,Galaxy Watch 3,Tizen,Super AMOLED,Rectangle,Black,"Bluetooth, Wi-Fi, Cellular",1.4,360 x 360,30,Yes,Yes,Yes,107730
+Garmin,Forerunner 945,Garmin OS,MIP,Rectangle,Black,"Bluetooth, Wi-Fi",1.2,240 x 240,20,Yes,Yes,Yes,161730
+Fitbit,Sense,Fitbit OS,AMOLED,Rectangle,White,"Bluetooth, Wi-Fi",1.58,336 x 336,5,Yes,Yes,Yes,88830
+Fossil,Sport,Wear OS,AMOLED,Circle,Blue,"Bluetooth, Wi-Fi",1.2,390 x 390,10,Yes,Yes,Yes,59130
+Huawei,Watch GT 2 Pro,Lite OS,AMOLED,Circle,Rose Gold,"Bluetooth, Wi-Fi",1.39,454 x 454,20,Yes,Yes,No,80730
+Xiaomi,Mi Watch Revolve,Proprietary,AMOLED,Circle,White,"Bluetooth, Wi-Fi",1.39,454 x 454,20,Yes,Yes,No,40230
+TicWatch,Pro 3 GPS,Wear OS,AMOLED,Circle,Grey,"Bluetooth, Wi-Fi",1.4,454 x 454,20,Yes,Yes,Yes,80730
+Amazfit,GTR 2e,Proprietary,AMOLED,Circle,Black,"Bluetooth, Wi-Fi",1.65,348 x 442,30,Yes,Yes,No,37530
+Honor,MagicWatch 2,Lite OS,AMOLED,Circle,Black,"Bluetooth, Wi-Fi",1.39,454 x 454,10,Yes,Yes,No,37530
+Suunto,9 Baro,Suunto OS,MIP,Rectangle,Rose Gold,"Bluetooth, Wi-Fi",1.2,240 x 240,10,Yes,Yes,No,161730
+Samsung,Galaxy Watch Active2,Tizen,Super AMOLED,Circle,Rose Gold,"Bluetooth, Wi-Fi, Cellular",1.4,360 x 360,30,Yes,Yes,Yes,67230
+Garmin,Forerunner 945,Garmin OS,Transflective,Rectangle,White,"Bluetooth, Wi-Fi",1.2,240 x 240,30,Yes,Yes,Yes,161730
+Fitbit,Sense,Fitbit OS,AMOLED,Circle,Grey,"Bluetooth, Wi-Fi",1.58,336 x 336,10,Yes,Yes,Yes,80730
+Fossil,Sport,Wear OS,AMOLED,Circle,Grey,"Bluetooth, Wi-Fi",1.2,390 x 390,5,Yes,Yes,Yes,74250
+Huawei,Watch GT 2 Pro,Lite OS,AMOLED,Rectangle,Black,"Bluetooth, Wi-Fi, Cellular",1.39,454 x 454,30,Yes,Yes,Yes,88830
+Xiaomi,Mi Watch Revolve,Proprietary OS,AMOLED,Rectangle,Grey,"Bluetooth, Wi-Fi",1.39,454 x 454,30,Yes,Yes,No,34830
+Amazfit,GTR 2e,Amazfit OS,AMOLED,Square,Grey,"Bluetooth, Wi-Fi",1.39,454 x 454,20,Yes,Yes,Yes,37530
+TicWatch,Pro 3,Wear OS,AMOLED,Circle,Black,"Bluetooth, Wi-Fi",1.4,454 x 454,10,Yes,Yes,Yes,80730
+Oppo,Watch 2,Wear OS,AMOLED,Circle,White,"Bluetooth, Wi-Fi, Cellular",1.91,402 x 476,30,Yes,Yes,Yes,80730
+Polar,Vantage M2,Polar OS,Transflective,Circle,Rose Gold,"Bluetooth, Wi-Fi",1.2,240 x 240,20,Yes,Yes,No,80730
+Xiaomi,Mi Watch Revolve,Proprietary,AMOLED,Square,Silver,"Bluetooth, Wi-Fi",1.39,454 x 454,30,Yes,Yes,Yes,32130
+TicWatch,Pro 3,Wear OS,AMOLED,Rectangle,Black,"Bluetooth, Wi-Fi, Cellular",1.4,454 x 454,20,Yes,Yes,Yes,80730
+Oppo,Watch 2,Wear OS,AMOLED,Rectangle,White,"Bluetooth, Wi-Fi, Cellular",1.75,372 x 430,20,Yes,Yes,Yes,88830
+Honor,Watch GS Pro,LiteOS,AMOLED,Circle,Rose Gold,"Bluetooth, Wi-Fi, Cellular",1.39,454 x 454,20,Yes,Yes,No,67230
+Suunto,7,Wear OS,AMOLED,Circle,Rose Gold,"Bluetooth, Wi-Fi, Cellular",1.39,454 x 454,5,Yes,Yes,Yes,134730
+LG,Watch Urbane 2nd Ed.,Android Wear,P-OLED,Square,Black,"Bluetooth, Wi-Fi, Cellular",1.38,480 x 480,5,Yes,Yes,Yes,107730
+Skagen,Falster 3,Wear OS,AMOLED,Square,Grey,"Bluetooth, Wi-Fi",1.3,416 x 416,5,Yes,Yes,Yes,79650
+Mobvoi,TicWatch E3,Wear OS,IPS LCD,Circle,Black,"Bluetooth, Wi-Fi, Cellular",1.3,360 x 360,30,Yes,Yes,No,53730
+Polar,Vantage V2,Proprietary,transflective,Circle,Black,"Bluetooth, Wi-Fi",1.2,240 x 240,30,Yes,Yes,No,134730
+Withings,ScanWatch,Proprietary,PMOLED,Rectangle,Grey,"Bluetooth, Wi-Fi",1.65,240 x 240,5,Yes,Yes,No,75330
+Garmin,Forerunner 945,Garmin OS,transflective,Rectangle,Blue,"Bluetooth, Wi-Fi",1.2,240 x 240,20,Yes,Yes,Yes,161730
+Garmin,Venu Sq,Garmin OS,LCD,Circle,Blue,"Bluetooth, Wi-Fi",1.3,240 x 240,30,Yes,Yes,Yes,53730
+Fitbit,Sense,Fitbit OS,AMOLED,Square,Black,"Bluetooth, Wi-Fi",1.58,336 x 336,30,Yes,Yes,Yes,88830
+Fossil,Sport,Wear OS,AMOLED,Circle,White,"Bluetooth, Wi-Fi",1.2,390 x 390,10,Yes,Yes,Yes,67230
+Huawei,Watch GT 2 Pro,Lite OS,AMOLED,Rectangle,Rose Gold,"Bluetooth, Wi-Fi",1.39,454 x 454,20,Yes,Yes,Yes,80730
+Amazfit,GTS 2e,Amazfit OS,AMOLED,Square,Black,"Bluetooth, Wi-Fi",1.65,348 x 442,10,Yes,Yes,Yes,37530
+TicWatch,Pro 3,Wear OS,AMOLED,Rectangle,Black,"Bluetooth, Wi-Fi",1.4,454 x 454,30,Yes,Yes,Yes,80730
+Xiaomi,Mi Watch,MIUI for Watch,AMOLED,Circle,Rose Gold,"Bluetooth, Wi-Fi, Cellular",1.39,454 x 454,30,Yes,Yes,Yes,53730
+Oppo,Watch 2,ColorOS,AMOLED,Square,White,"Bluetooth, Wi-Fi",1.75,372 x 430,20,Yes,Yes,Yes,67230
+Honor,Watch GS Pro,Lite OS,AMOLED,Rectangle,Blue,"Bluetooth, Wi-Fi",1.39,454 x 454,10,Yes,Yes,Yes,67230
+Samsung,Galaxy Watch 3,Tizen OS,Super AMOLED,Circle,Black,"Bluetooth, Wi-Fi, Cellular",1.4,360 x 360,20,Yes,Yes,Yes,94230
+Garmin,Forerunner 945,Garmin OS,Transflective,Rectangle,Silver,"Bluetooth, Wi-Fi",1.2,240 x 240,30,Yes,Yes,Yes,161730
+Suunto,7,Wear OS,AMOLED,Rectangle,Grey,"Bluetooth, Wi-Fi",1.39,454 x 454,20,Yes,Yes,Yes,107730
+Apple,Watch SE,watchOS,Retina,Circle,Rose Gold,"Bluetooth, Wi-Fi, Cellular",1.78,368 x 448,20,Yes,Yes,Yes,75330
+Fitbit,Sense,Fitbit OS,AMOLED,Rectangle,Black,"Bluetooth, Wi-Fi",1.58,336 x 336,20,Yes,Yes,Yes,80730
+Mobvoi,TicWatch Pro 3,Wear OS,AMOLED,Rectangle,Blue,"Bluetooth, Wi-Fi",1.4,454 x 454,20,Yes,Yes,Yes,80730
+Polar,Vantage V2,Polar OS,Transflective,Rectangle,Black,"Bluetooth, Wi-Fi",1.2,240 x 240,30,Yes,Yes,Yes,134730
+Samsung,Galaxy Watch Active 2,Tizen OS,Super AMOLED,Rectangle,Black,"Bluetooth, Wi-Fi, Cellular",1.4,360 x 360,30,Yes,Yes,Yes,67230
+Garmin,Lily,Garmin OS,TFT,Circle,Black,"Bluetooth, Wi-Fi",1.3,240 x 240,30,Yes,Yes,No,53730
+Amazfit,GTR 2e,Amazfit OS,AMOLED,Circle,Silver,"Bluetooth, Wi-Fi",1.39,454 x 454,5,Yes,Yes,No,37530
+Fossil,Sport,Wear OS,AMOLED,Circle,Black,"Bluetooth, Wi-Fi",1.2,390 x 390,20,Yes,Yes,Yes,53730
+Apple,Watch SE,watchOS,Retina,Circle,Grey,"Bluetooth, Wi-Fi, Cellular",1.57,324 x 394,30,Yes,Yes,Yes,75330
+Samsung,Galaxy Watch Active2,Tizen,Super AMOLED,Rectangle,Blue,"Bluetooth, Wi-Fi",1.4,360 x 360,30,Yes,Yes,Yes,53730
+Garmin,Forerunner 945,Garmin OS,"Sunlight-visible, transflective memory-in-pixel (MIP)",Square,Black,"Bluetooth, Wi-Fi",1.2,240 x 240,30,Yes,Yes,Yes,161730
+Fitbit,Sense,Fitbit OS,AMOLED,Square,Black,"Bluetooth, Wi-Fi",1.58,336 x 336,10,Yes,Yes,Yes,80730
+Huawei,Watch GT 2 Pro,LiteOS,AMOLED,Circle,Black,"Bluetooth, Wi-Fi",1.39,454 x 454,30,Yes,Yes,No,80730
+Amazfit,GTR 2,Amazfit OS,AMOLED,Circle,Silver,"Bluetooth, Wi-Fi",1.39,454 x 454,20,Yes,Yes,No,48330
+Ticwatch,Pro 4G/LTE,Wear OS,AMOLED,Rectangle,Blue,"Bluetooth, Wi-Fi, Cellular",1.4,400 x 400,30,Yes,Yes,Yes,80730
+Suunto,7,Wear OS,AMOLED,Rectangle,Blue,"Bluetooth, Wi-Fi",1.39,454 x 454,20,Yes,Yes,No,134730
+Fossil,Hybrid HR,Custom OS,E-Ink,Rectangle,Black,"Bluetooth, Wi-Fi",1.06,176 x 176,5,Yes,No,No,53730
+Polar,Vantage M2,Polar OS,LCD,Circle,Rose Gold,"Bluetooth, Wi-Fi",1.2,240 x 240,30,Yes,Yes,No,80730
+Apple,Watch SE,watchOS,Retina,Circle,Rose Gold,"Bluetooth, Wi-Fi, Cellular",1.78,368 x 448,20,Yes,Yes,Yes,75330
+Samsung,Galaxy Watch Active2,Tizen OS,Super AMOLED,Rectangle,Blue,"Bluetooth, Wi-Fi, Cellular",1.35,360 x 360,20,Yes,Yes,Yes,67230
+Garmin,Forerunner 945,Garmin OS,"Sunlight-visible, transflective memory-in-pixel (MIP)",Rectangle,Blue,"Bluetooth, Wi-Fi",1.2,240 x 240,20,Yes,Yes,Yes,161730
+Fitbit,Sense,Fitbit OS,AMOLED,Circle,Black,"Bluetooth, Wi-Fi",1.58,336 x 336,20,Yes,Yes,Yes,80730
+Fossil,Sport,Wear OS,AMOLED,Square,Black,"Bluetooth, Wi-Fi",1.2,390 x 390,10,Yes,Yes,Yes,59130
+Huawei,Watch GT 2 Pro,LiteOS,AMOLED,Rectangle,Rose Gold,"Bluetooth, Wi-Fi, GPS",1.39,454 x 454,30,Yes,Yes,No,80730
+Apple,Watch Series 6,watchOS,Retina,Rectangle,Black,"Bluetooth, Wi-Fi, Cellular",1.78,368 x 448,30,Yes,Yes,Yes,107730
+Samsung,Galaxy Watch 3,Tizen OS,Super AMOLED,Rectangle,Black,"Bluetooth, Wi-Fi, Cellular",1.4,360 x 360,20,Yes,Yes,Yes,107730
+Garmin,Venu Sq,Garmin OS,LCD,Square,Black,"Bluetooth, Wi-Fi",1.3,240 x 240,20,Yes,Yes,Yes,53730
+Fitbit,Versa Lite Edition,Fitbit OS,LCD,Square,Grey,"Bluetooth, Wi-Fi",1.34,300 x 300,5,Yes,No,No,42930
+Fossil,Hybrid HR,Custom OS,E-Ink,Rectangle,Black,"Bluetooth, Wi-Fi",1.06,176 x 176,10,Yes,No,Yes,53730
+Apple,Watch SE,watchOS,Retina,Square,Black,"Bluetooth, Wi-Fi, GPS",1.78,324 x 394,20,Yes,Yes,Yes,75330
+Samsung,Galaxy Watch Active 2,Tizen OS,Super AMOLED,Rectangle,Black,"Bluetooth, Wi-Fi, GPS",1.2,360 x 360,30,Yes,Yes,Yes,53730
+Garmin,Forerunner 945,Garmin OS,Transflective,Rectangle,Black,"Bluetooth, Wi-Fi, GPS",1.2,240 x 240,30,Yes,Yes,Yes,161730
+Fitbit,Sense,Fitbit OS,AMOLED,Rectangle,Blue,"Bluetooth, Wi-Fi, GPS",1.58,336 x 336,30,Yes,Yes,Yes,88830
+Fossil,Hybrid HR,Fossil OS,E-ink,Circle,Grey,Bluetooth,1.06,200 x 200,20,Yes,No,No,53730
+Huawei,Watch GT 2 Pro,Lite OS,AMOLED,Rectangle,Black,"Bluetooth, Wi-Fi, GPS",1.39,454 x 454,20,Yes,Yes,No,80730
+Apple,Watch Series 6,watchOS,Retina,Circle,Black,"Bluetooth, Wi-Fi, GPS",1.78,368 x 448,30,Yes,Yes,Yes,107730
+Samsung,Galaxy Watch 3,Tizen OS,Super AMOLED,Circle,Grey,"Bluetooth, Wi-Fi, GPS",1.4,360 x 360,30,Yes,Yes,Yes,107730
+Garmin,Enduro,Garmin OS,Sunlight-visible,Rectangle,Silver,"Bluetooth, Wi-Fi, GPS",1.4,280 x 280,20,Yes,Yes,Yes,215730
+Fitbit,Versa 2,Fitbit OS,AMOLED,Rectangle,Blue,"Bluetooth, Wi-Fi, NFC",1.39,300 x 300,20,Yes,Yes,Yes,53730
+Fossil,Sport,Wear OS,AMOLED,Square,Black,"Bluetooth, Wi-Fi, GPS",1.2,390 x 390,20,Yes,Yes,Yes,59130
+Garmin,Forerunner 945,Garmin OS,"Sunlight-visible, transflective memory-in-pixel (MIP)",Square,Rose Gold,"Bluetooth, Wi-Fi",1.2,240 x 240,30,Yes,Yes,Yes,161730
+Fitbit,Sense,Fitbit OS,AMOLED,Square,Grey,"Bluetooth, Wi-Fi",1.58,336 x 336,20,Yes,Yes,Yes,80730
+Fossil,Collider HR,Fossil OS,OLED,Rectangle,Rose Gold,"Bluetooth, Wi-Fi",0.9,128 x 128,10,Yes,Yes,Yes,52650
+Huawei,Watch GT 2 Pro,LiteOS,AMOLED,Rectangle,Grey,"Bluetooth, Wi-Fi",1.39,454 x 454,30,Yes,Yes,Yes,80730
+TicWatch,Pro 3,Wear OS,AMOLED,Circle,Silver,"Bluetooth, Wi-Fi",1.4,454 x 454,20,Yes,Yes,Yes,80730
+Polar,Vantage V2,Polar OS,Color Touch,Square,Black,"Bluetooth, Wi-Fi",1.2,240 x 240,30,Yes,Yes,No,134730
+Amazfit,GTR 2,Amazfit OS,AMOLED,Rectangle,Black,"Bluetooth, Wi-Fi",1.39,454 x 454,10,Yes,Yes,Yes,48330
+Suunto,7,Wear OS,AMOLED,Circle,Black,"Bluetooth, Wi-Fi",1.39,454 x 454,30,Yes,Yes,Yes,134730
+Skagen,Falster 3,Wear OS,AMOLED,Rectangle,Black,"Bluetooth, Wi-Fi",1.3,416 x 416,30,Yes,Yes,Yes,79650
+Samsung,Galaxy Watch Active2,Tizen OS,Super AMOLED,Rectangle,Grey,"Bluetooth, Wi-Fi, Cellular",1.4,360 x 360,20,Yes,Yes,Yes,67230
+Garmin,Forerunner 945,Garmin OS,Transflective,Rectangle,Blue,"Bluetooth, Wi-Fi",1.2,240 x 240,20,Yes,Yes,Yes,161730
+Fitbit,Sense,Fitbit OS,AMOLED,Circle,Black,"Bluetooth, Wi-Fi",1.58,336 x 336,5,Yes,Yes,Yes,88830
+Fossil,Sport,Wear OS,AMOLED,Rectangle,Black,"Bluetooth, Wi-Fi",1.2,390 x 390,10,Yes,Yes,Yes,53730
+Huawei,Watch GT 2 Pro,HarmonyOS,AMOLED,Rectangle,Blue,"Bluetooth, Wi-Fi",1.39,454 x 454,30,Yes,Yes,No,80730
+Apple,Watch Series 6,watchOS,Retina,Rectangle,Grey,"Bluetooth, Wi-Fi, Cellular",1.78,368 x 448,20,Yes,Yes,Yes,107730
+Samsung,Galaxy Watch3,Tizen OS,Super AMOLED,Rectangle,Silver,"Bluetooth, Wi-Fi, Cellular",1.4,360 x 360,20,Yes,Yes,Yes,107730
+Garmin,Fenix 6 Pro Solar,Garmin OS,Transflective,Circle,White,"Bluetooth, Wi-Fi",1.4,280 x 280,20,Yes,Yes,Yes,229230
+Fitbit,Versa 2,Fitbit OS,AMOLED,Square,Blue,"Bluetooth, Wi-Fi",1.39,300 x 300,5,Yes,No,Yes,48330
+Fossil,Hybrid HR,Custom OS,E-Ink,Rectangle,Black,Bluetooth,1.06,240 x 198,20,Yes,No,No,53730
+Fitbit,Sense,Fitbit OS,AMOLED,Rectangle,White,"Bluetooth, Wi-Fi",1.58,336 x 336,20,Yes,Yes,Yes,80730
+Fossil,Sport,Wear OS,AMOLED,Square,Blue,"Bluetooth, Wi-Fi",1.2,390 x 390,30,Yes,Yes,Yes,51030
+Huawei,Watch GT 2 Pro,Lite OS,AMOLED,Rectangle,Grey,"Bluetooth, Wi-Fi",1.39,454 x 454,20,Yes,Yes,Yes,80730
+Apple,Watch Series 6,watchOS,Retina,Rectangle,Grey,"Bluetooth, Wi-Fi, Cellular",1.78,368 x 448,20,Yes,Yes,Yes,107730
+Samsung,Galaxy Watch 3,Tizen OS,Super AMOLED,Rectangle,Black,"Bluetooth, Wi-Fi, Cellular",1.2,360 x 360,30,Yes,Yes,Yes,107730
+Garmin,Venu Sq,Garmin OS,LCD,Rectangle,White,"Bluetooth, Wi-Fi",1.3,240 x 240,20,Yes,Yes,Yes,48330
+Fitbit,Charge 5,Fitbit OS,AMOLED,Circle,White,Bluetooth,1.04,240 x 240,30,Yes,No,Yes,48330
+Fossil,Gen 5 Carlyle,Wear OS,AMOLED,Circle,Black,"Bluetooth, Wi-Fi",1.28,416 x 416,20,Yes,Yes,Yes,79650
+Xiaomi,Mi Watch,MIUI,AMOLED,Circle,White,"Bluetooth, Wi-Fi, Cellular",1.39,454 x 454,20,Yes,Yes,Yes,37530
+TicWatch,Pro 3,Wear OS,AMOLED,Rectangle,Blue,"Bluetooth, Wi-Fi",1.4,454 x 454,10,Yes,Yes,Yes,80730
+Honor,Magic Watch 2,Lite OS,AMOLED,Rectangle,White,"Bluetooth, Wi-Fi",1.39,454 x 454,20,Yes,Yes,Yes,53730
+Amazfit,GTR 2,Amazfit OS,AMOLED,Circle,Black,"Bluetooth, Wi-Fi",1.39,454 x 454,30,Yes,Yes,Yes,48330
+Skagen,Falster 3,Wear OS,AMOLED,Rectangle,Silver,"Bluetooth, Wi-Fi",1.3,416 x 416,30,Yes,Yes,Yes,79650
+Mobvoi,TicWatch E3,Wear OS,IPS,Rectangle,Black,"Bluetooth, Wi-Fi",1.3,360 x 360,5,Yes,Yes,Yes,53730
+Oppo,Watch,ColorOS,AMOLED,Circle,Silver,"Bluetooth, Wi-Fi, Cellular",1.91,402 x 476,30,Yes,Yes,Yes,61830
+Suunto,7,Wear OS,AMOLED,Circle,Silver,"Bluetooth, Wi-Fi",1.39,454 x 454,20,Yes,Yes,No,107730
+Mobvoi,TicWatch Pro 2020,Wear OS,AMOLED,Rectangle,Blue,"Bluetooth, Wi-Fi",1.39,400 x 400,5,Yes,Yes,Yes,80730
+Casio,Pro Trek WSD-F30,Wear OS,Dual Layer,Rectangle,White,"Bluetooth, Wi-Fi",1.2,390 x 390,30,Yes,Yes,Yes,148230
+Suunto,9 Peak,Suunto OS,OLED,Rectangle,Black,"Bluetooth, Wi-Fi",1.4,240 x 240,20,Yes,Yes,No,153630
+Garmin,Forerunner 945,Garmin OS,Transflective,Circle,Black,"Bluetooth, Wi-Fi",1.2,240 x 240,20,Yes,Yes,Yes,161730
+Fitbit,Sense,Fitbit OS,AMOLED,Circle,Black,"Bluetooth, Wi-Fi",1.58,336 x 336,20,Yes,Yes,Yes,88830
+Fossil,Hybrid HR,Fossil OS,E-Ink,Rectangle,Blue,"Bluetooth, Wi-Fi",1.06,176 x 176,5,Yes,No,Yes,53730
+Huawei,Watch Fit,Lite OS,AMOLED,Square,Grey,"Bluetooth, Wi-Fi",1.64,280 x 456,20,Yes,No,Yes,34830
+TicWatch,Pro 4G/LTE,Wear OS,AMOLED,Circle,Rose Gold,"Bluetooth, Wi-Fi, Cellular",1.4,400 x 400,30,Yes,Yes,Yes,80730
+Amazfit,GTS 2,Amazfit OS,AMOLED,Rectangle,Silver,"Bluetooth, Wi-Fi",1.65,348 x 442,30,Yes,Yes,Yes,48330
+OnePlus,Watch,RTOS,AMOLED,Rectangle,Silver,"Bluetooth, Wi-Fi",1.39,454 x 454,5,Yes,Yes,Yes,42930
+Oppo,Watch 2,ColorOS,AMOLED,Circle,Black,"Bluetooth, Wi-Fi, Cellular",1.75,372 x 430,30,Yes,Yes,Yes,67230
+Polar,Vantage V2,Polar OS,Transflective,Circle,Grey,"Bluetooth, Wi-Fi",1.2,240 x 240,5,Yes,Yes,No,134730
+LG,Watch W7,Wear OS,LCD,Rectangle,Black,"Bluetooth, Wi-Fi",1.2,360 x 360,30,Yes,Yes,No,67230
+Misfit,Vapor X,Wear OS,AMOLED,Rectangle,Black,"Bluetooth, Wi-Fi",1.19,328 x 328,30,Yes,Yes,Yes,53730
+Mobvoi,TicWatch Pro 3,Wear OS,AMOLED,Circle,Grey,"Bluetooth, Wi-Fi",1.4,454 x 454,20,Yes,Yes,Yes,80730
+Moto,Moto 360 (3rd Gen),Wear OS,AMOLED,Rectangle,Black,"Bluetooth, Wi-Fi",1.2,390 x 390,20,Yes,Yes,Yes,80730
+MyKronoz,ZeTime Elite 2,MyKronoz OS,TFT LCD,Rectangle,White,"Bluetooth, Wi-Fi",1.3,360 x 360,10,Yes,No,Yes,53730
+Nubia,Alpha,Nubia OS,OLED,Circle,Black,"Bluetooth, Wi-Fi, Cellular",4.01,960 x 192,30,Yes,Yes,Yes,121230
+Skagen,Falster 3,Wear OS,AMOLED,Square,Black,"Bluetooth, Wi-Fi",1.3,416 x 416,30,Yes,Yes,Yes,79650
+Sony,SmartWatch 3,Android Wear,Transflective,Rectangle,Rose Gold,"Bluetooth, Wi-Fi",1.6,320 x 320,5,Yes,Yes,Yes,80730
+TicWatch,E2,Wear OS,AMOLED,Rectangle,Black,"Bluetooth, Wi-Fi",1.39,400 x 400,20,Yes,Yes,Yes,42930
+Xiaomi,Mi Watch Lite,Mi Wear OS,LCD,Rectangle,Blue,"Bluetooth, Wi-Fi",1.4,320 x 320,20,Yes,Yes,Yes,13230
+Zepp,Z,Zepp OS,AMOLED,Circle,Blue,"Bluetooth, Wi-Fi",1.39,454 x 454,10,Yes,Yes,Yes,94230
+TicWatch,E3,Wear OS,LCD,Circle,Black,"Bluetooth, Wi-Fi",1.3,360 x 360,20,Yes,Yes,Yes,53730
+Huawei,Watch GT 2 Pro,Lite OS,AMOLED,Circle,Black,"Bluetooth, Wi-Fi",1.39,454 x 454,30,Yes,Yes,Yes,80730
+Samsung,Galaxy Watch Active 2,Tizen OS,Super AMOLED,Circle,Black,"Bluetooth, Wi-Fi, Cellular",1.4,360 x 360,20,Yes,Yes,Yes,75330
+Apple,Watch Series 6,watchOS,Retina,Square,Silver,"Bluetooth, Wi-Fi, Cellular",1.78,368 x 448,30,Yes,Yes,Yes,107730
+Fitbit,Ionic,Fitbit OS,LCD,Circle,Black,"Bluetooth, Wi-Fi",1.42,348 x 250,20,Yes,Yes,Yes,67230
+Fossil,Gen 5,Wear OS,AMOLED,Circle,White,"Bluetooth, Wi-Fi",1.28,416 x 416,30,Yes,Yes,Yes,79650
+Garmin,Venu Sq,Garmin OS,LCD,Circle,Blue,"Bluetooth, Wi-Fi",1.3,240 x 240,20,Yes,Yes,Yes,53730
+Mobvoi,TicWatch Pro 3,Wear OS,AMOLED,Circle,Black,"Bluetooth, Wi-Fi",1.4,454 x 454,10,Yes,Yes,Yes,80730
+Oppo,Watch Free,ColorOS,AMOLED,Rectangle,Black,"Bluetooth, Wi-Fi",1.6,360 x 360,30,Yes,Yes,Yes,53730
+Realme,Watch S Pro,Realme OS,AMOLED,Rectangle,Grey,"Bluetooth, Wi-Fi",1.39,454 x 454,30,Yes,Yes,No,48330
+Suunto,9 Peak,Suunto OS,Transflective,Rectangle,White,"Bluetooth, Wi-Fi",1.4,320 x 300,30,Yes,Yes,Yes,153630
+Timex,Metropolitan R,Proprietary OS,AMOLED,Circle,Black,"Bluetooth, Wi-Fi",1.2,390 x 390,5,Yes,Yes,No,48330
+Matrix,PowerWatch 2,Matrix OS,LCD,Rectangle,Silver,"Bluetooth, Wi-Fi",1.2,360 x 360,10,Yes,Yes,Yes,134730
+Mobvoi,TicWatch E3,Wear OS,IPS LCD,Rectangle,Grey,"Bluetooth, Wi-Fi",1.3,360 x 360,30,Yes,Yes,Yes,53730
+Skagen,Falster 3,Wear OS,AMOLED,Circle,Silver,"Bluetooth, Wi-Fi",1.3,416 x 416,10,Yes,Yes,Yes,79650
+Xiaomi,Mi Watch Lite,Proprietary OS,TFT LCD,Circle,Grey,Bluetooth,1.4,320 x 320,30,Yes,No,Yes,18630
+Honor,MagicWatch 2,Lite OS,AMOLED,Rectangle,White,"Bluetooth, Wi-Fi",1.39,454 x 454,10,Yes,Yes,Yes,53730
+Withings,ScanWatch,Proprietary OS,PMOLED,Circle,Blue,"Bluetooth, Wi-Fi",1.3,240 x 240,20,Yes,Yes,Yes,75330
+Kate Spade,Scallop 2,Wear OS,AMOLED,Circle,Black,"Bluetooth, Wi-Fi",1.19,390 x 390,10,Yes,Yes,Yes,79650
+Diesel,On Fadelite,Wear OS,AMOLED,Circle,Black,"Bluetooth, Wi-Fi",1.19,390 x 390,10,Yes,Yes,Yes,80730
+Amazfit,Bip U Pro,Amazfit OS,TFT LCD,Rectangle,Silver,"Bluetooth, Wi-Fi",1.43,320 x 302,30,Yes,No,Yes,18630
+Honor,Watch ES,Lite OS,AMOLED,Circle,Blue,"Bluetooth, Wi-Fi",1.64,280 x 456,20,Yes,No,Yes,26730
+Timex,Metropolitan R,Wear OS,AMOLED,Rectangle,Black,"Bluetooth, Wi-Fi",1.2,390 x 390,20,Yes,Yes,No,48330
+Michael Kors,Lexington 2,Wear OS,AMOLED,Rectangle,Black,"Bluetooth, Wi-Fi",1.28,416 x 416,20,Yes,Yes,Yes,80730
+Diesel,Fadelite,Wear OS,AMOLED,Circle,Rose Gold,"Bluetooth, Wi-Fi",1.19,390 x 390,20,Yes,Yes,Yes,67230
+LG,Watch W7,Wear OS,LCD,Rectangle,Silver,"Bluetooth, Wi-Fi",1.2,360 x 360,20,Yes,Yes,Yes,67230
+TicWatch,E3,Wear OS,TFT-LCD,Rectangle,Rose Gold,"Bluetooth, Wi-Fi",1.3,360 x 360,20,Yes,Yes,Yes,53730
+Mobvoi,TicWatch C2+,Wear OS,AMOLED,Square,Black,"Bluetooth, Wi-Fi",1.3,360 x 360,5,Yes,Yes,Yes,56430
+Zeblaze,Thor 5 Pro,Android OS,AMOLED,Rectangle,Silver,"Bluetooth, Wi-Fi, Cellular",1.6,400 x 400,5,Yes,Yes,Yes,51030
+Kospet,Prime 2,Android OS,AMOLED,Circle,Grey,"Bluetooth, Wi-Fi, Cellular",2.1,480 x 480,5,Yes,Yes,Yes,72630
+Lemfo,Lem12 Pro,Android OS,AMOLED,Circle,Black,"Bluetooth, Wi-Fi, Cellular",1.6,400 x 400,20,Yes,Yes,Yes,48330
+Amazfit,Stratos 3,Amazfit OS,Transflective,Circle,Grey,"Bluetooth, Wi-Fi",1.34,320 x 320,5,Yes,Yes,Yes,53730
+Garmin,Enduro,Garmin OS,Transflective,Square,Black,"Bluetooth, Wi-Fi",1.4,280 x 280,30,Yes,Yes,Yes,215730
+Mobvoi,TicWatch E3,Wear OS,IPS LCD,Circle,Black,"Bluetooth, Wi-Fi",1.3,360 x 360,20,Yes,Yes,Yes,53730
+Withings,Steel HR Sport,Proprietary,OLED,Circle,Black,"Bluetooth, Wi-Fi",1.23,240 x 240,20,Yes,Yes,No,53730
+Casio,G-Shock Move,Casio OS,LCD,Circle,Rose Gold,"Bluetooth, Wi-Fi",1.2,360 x 360,30,Yes,Yes,Yes,107730
+Amazfit,Bip S,Amazfit OS,Transflective,Circle,Rose Gold,"Bluetooth, Wi-Fi",1.28,176 x 176,5,Yes,No,Yes,18630
+Garmin,Lily,Garmin OS,TFT LCD,Circle,Grey,"Bluetooth, Wi-Fi",1,240 x 240,20,Yes,Yes,No,53730
+Huawei,Watch GT 2e,Lite OS,AMOLED,Circle,Black,"Bluetooth, Wi-Fi",1.39,454 x 454,30,Yes,Yes,Yes,37530
+LG,Watch Urbane 2,Wear OS,P-OLED,Circle,Grey,"Bluetooth, Wi-Fi, Cellular",1.38,480 x 480,30,Yes,Yes,Yes,80730
+Suunto,9 Peak,Suunto OS,Transflective,Circle,Silver,"Bluetooth, Wi-Fi",1.2,240 x 240,30,Yes,Yes,No,188730
+Timex,Metropolitan R,Proprietary,AMOLED,Circle,White,"Bluetooth, Wi-Fi",1.2,390 x 390,20,Yes,No,Yes,48330
+Polar,Ignite 2,Polar OS,IPS LCD,Square,Black,"Bluetooth, Wi-Fi",1.2,240 x 240,20,Yes,Yes,No,61830
+Xiaomi,Mi Watch Revolve,Proprietary,AMOLED,Circle,Rose Gold,"Bluetooth, Wi-Fi",1.39,454 x 454,20,Yes,Yes,Yes,34830
+Skagen,Jorn Hybrid HR,Skagen OS,E-Ink,Circle,Grey,"Bluetooth, Wi-Fi",1.2,240 x 240,20,Yes,No,No,52650
+Xiaomi,Mi Watch Revolve,MIUI for Watch,AMOLED,Circle,Black,"Bluetooth, Wi-Fi",1.39,454 x 454,20,Yes,Yes,Yes,32400
+Kate Spade,Scallop 2,Wear OS,AMOLED,Rectangle,Grey,"Bluetooth, Wi-Fi",1.2,390 x 390,10,Yes,Yes,Yes,80730
+TAG Heuer,Connected Modular 45,Wear OS,AMOLED,Rectangle,Black,"Bluetooth, Wi-Fi",1.39,400 x 400,10,Yes,Yes,Yes,405000
+Misfit,Vapor X,Wear OS,AMOLED,Square,Grey,"Bluetooth, Wi-Fi",1.19,390 x 390,20,Yes,Yes,Yes,75330
+Michael Kors,Access Bradshaw 2,Wear OS,AMOLED,Circle,Grey,"Bluetooth, Wi-Fi",1.28,416 x 416,10,Yes,Yes,Yes,94230
+Casio,G-Shock GBD-H1000,Casio OS,STN LCD,Rectangle,Blue,"Bluetooth, Wi-Fi",1.2,360 x 360,30,Yes,Yes,Yes,107730
+Matrix,PowerWatch 2,Matrix OS,LCD,Rectangle,White,"Bluetooth, Wi-Fi",1.2,228 x 172,20,Yes,Yes,Yes,134730
+Garmin,Instinct Solar,Garmin OS,Monochrome,Circle,Blue,"Bluetooth, Wi-Fi",0.9,128 x 128,30,Yes,Yes,Yes,107730
+Timex,Metropolitan R,Timex OS,E-Ink,Rectangle,Blue,"Bluetooth, Wi-Fi",1.2,240 x 240,20,Yes,No,No,48330
+Diesel,On Fadelite,Wear OS,AMOLED,Circle,Black,"Bluetooth, Wi-Fi",1.19,390 x 390,10,Yes,Yes,Yes,67230
+Mobvoi,TicWatch E3,Wear OS,IPS LCD,Square,Black,"Bluetooth, Wi-Fi",1.3,360 x 360,5,Yes,Yes,Yes,53730
+Casio,G-Shock GBD-H1000,Casio OS,Transflective,Rectangle,Silver,"Bluetooth, Wi-Fi",1.2,360 x 360,5,Yes,Yes,No,107730
+Amazfit,GTR 2,Amazfit OS,AMOLED,Rectangle,Black,"Bluetooth, Wi-Fi",1.39,454 x 454,30,Yes,Yes,Yes,48330
+Honor,Watch ES,Lite OS,AMOLED,Rectangle,Grey,"Bluetooth, Wi-Fi",1.64,280 x 456,10,Yes,No,No,26730
+Realme,Watch S Pro,Realme OS,AMOLED,Circle,Silver,"Bluetooth, Wi-Fi",1.39,454 x 454,5,Yes,Yes,Yes,40230
+Skagen,Falster 3,Wear OS,AMOLED,Rectangle,Grey,"Bluetooth, Wi-Fi",1.3,416 x 416,5,Yes,Yes,Yes,79650
+Zepp,Z,Zepp OS,AMOLED,Circle,Rose Gold,"Bluetooth, Wi-Fi",1.39,454 x 454,5,Yes,Yes,Yes,94230
+Diesel,On Fadelite,Wear OS,AMOLED,Circle,Black,"Bluetooth, Wi-Fi",1.19,390 x 390,5,Yes,Yes,Yes,74250
+Garmin,Enduro,Garmin OS,Transflective,Rectangle,Black,"Bluetooth, Wi-Fi",1.4,280 x 280,20,Yes,Yes,Yes,215730
+Suunto,9 Peak,Suunto OS,Transflective,Rectangle,Black,"Bluetooth, Wi-Fi",1.4,280 x 280,5,Yes,Yes,Yes,188730
+Fitbit,Ionic,Fitbit OS,LCD,Circle,Black,"Bluetooth, Wi-Fi",1.42,348 x 250,20,Yes,Yes,Yes,67230
+Skagen,Falster 3,Wear OS,AMOLED,Circle,Blue,"Bluetooth, Wi-Fi",1.3,328 x 328,5,Yes,Yes,Yes,79650
+Montblanc,Summit 2,Wear OS,AMOLED,Rectangle,Black,"Bluetooth, Wi-Fi",1.28,390 x 390,10,Yes,Yes,Yes,267300
+TAG Heuer,Connected Modular 45,Wear OS,OLED,Circle,Silver,"Bluetooth, Wi-Fi",1.39,400 x 400,10,Yes,Yes,Yes,445500
+Asus,ZenWatch 3,Android Wear,AMOLED,Rectangle,Black,"Bluetooth, Wi-Fi",1.39,400 x 400,5,Yes,Yes,No,61830
+Mobvoi,TicWatch Pro,Wear OS,AMOLED,Rectangle,White,"Bluetooth, Wi-Fi",1.4,400 x 400,5,Yes,Yes,Yes,75330
+Misfit,Vapor 2,Wear OS,AMOLED,Rectangle,Rose Gold,"Bluetooth, Wi-Fi",1.2,360 x 360,10,Yes,Yes,Yes,67230
+Withings,ScanWatch,Withings OS,PMOLED,Square,Blue,"Bluetooth, Wi-Fi",1.38,348 x 442,30,Yes,Yes,Yes,75330
+Michael Kors,Access Gen 5,Wear OS,AMOLED,Rectangle,Black,"Bluetooth, Wi-Fi",1.28,416 x 416,10,Yes,Yes,Yes,79650
+Diesel,On Fadelite,Wear OS,AMOLED,Rectangle,Black,"Bluetooth, Wi-Fi",1.19,390 x 390,20,Yes,Yes,Yes,79650
+Emporio Armani,Connected,Wear OS,AMOLED,Rectangle,Black,"Bluetooth, Wi-Fi",1.19,390 x 390,5,Yes,Yes,Yes,101250
+Zepp,Z,Zepp OS,AMOLED,Rectangle,Black,"Bluetooth, Wi-Fi, Cellular",1.39,454 x 454,5,Yes,Yes,Yes,94230
+Xiaomi,Mi Watch Revolve,MIUI For Watch,AMOLED,Rectangle,Black,"Bluetooth, Wi-Fi",1.39,454 x 454,30,Yes,Yes,Yes,26730
+Mobvoi,TicWatch E3,Wear OS,IPS LCD,Rectangle,Silver,"Bluetooth, Wi-Fi",1.3,360 x 360,30,Yes,Yes,Yes,53730
+Honor,Watch GS Pro,Lite OS,AMOLED,Circle,Black,"Bluetooth, Wi-Fi",1.39,454 x 454,30,Yes,Yes,Yes,67230
+Skagen,Falster 3,Wear OS,AMOLED,Rectangle,Grey,"Bluetooth, Wi-Fi",1.3,328 x 328,30,Yes,Yes,Yes,79650
+Sony,SmartWatch 3,Android Wear,Transflective,Square,Rose Gold,"Bluetooth, Wi-Fi",1.6,320 x 320,20,Yes,Yes,Yes,40500
+Casio,Pro Trek Smart WSD-F30,Wear OS,OLED,Square,Grey,"Bluetooth, Wi-Fi",1.2,390 x 390,30,Yes,Yes,Yes,148230
+Timex,Ironman R300 GPS,Timex OS,Memory LCD,Circle,Silver,"Bluetooth, Wi-Fi",1.1,160 x 160,20,Yes,Yes,No,34830
+Withings,ScanWatch 38mm,Withings OS,PMOLED,Square,Rose Gold,"Bluetooth, Wi-Fi",1.3,240 x 240,30,Yes,No,Yes,75330
+LG,Watch Urbane 2nd Edition,Android Wear,P-OLED,Circle,Silver,"Bluetooth, Wi-Fi, Cellular",1.38,480 x 480,5,Yes,Yes,Yes,107730
+Polaroid,Cosmo,Android,TFT LCD,Circle,Blue,"Bluetooth, Wi-Fi",1.2,240 x 240,5,Yes,Yes,Yes,67230
+MyKronoz,ZeTime,MyKronoz OS,TFT LCD,Rectangle,Grey,"Bluetooth, Wi-Fi",1.22,240 x 240,30,Yes,Yes,Yes,53730
+Xiaomi,Mi Watch Revolve,Wear OS,AMOLED,Square,Blue,"Bluetooth, Wi-Fi",1.39,454 x 454,30,Yes,Yes,Yes,26730
+Mobvoi,TicWatch E3,Wear OS,IPS LCD,Rectangle,White,"Bluetooth, Wi-Fi",1.3,360 x 360,30,Yes,Yes,Yes,53730
+Honor,Watch GS Pro,Lite OS,AMOLED,Rectangle,Black,"Bluetooth, Wi-Fi, Cellular",1.39,454 x 454,5,Yes,Yes,Yes,67230
+Skagen,Falster 3,Wear OS,OLED,Rectangle,White,"Bluetooth, Wi-Fi",1.3,416 x 416,30,Yes,Yes,Yes,79650
+Withings,ScanWatch,Withings OS,PMOLED,Circle,Rose Gold,"Bluetooth, Wi-Fi",1.65,240 x 240,10,Yes,Yes,Yes,75330
+Timex,Metropolitan+,Timex OS,E-Ink,Rectangle,Black,Bluetooth,1.5,,10,Yes,No,No,21330
+Kospet,Optimus Pro,Android,IPS LCD,Circle,Silver,"Bluetooth, Wi-Fi, Cellular",1.39,454 x 454,5,Yes,Yes,Yes,53730
+Zepp,Z,Zepp OS,AMOLED,Rectangle,Rose Gold,"Bluetooth, Wi-Fi",1.39,454 x 454,30,Yes,Yes,Yes,67230
+Realme,Watch S Pro,Proprietary OS,AMOLED,Rectangle,Rose Gold,"Bluetooth, Wi-Fi",1.39,454 x 454,10,Yes,Yes,No,37530
+Casio,Pro Trek WSD-F30,Wear OS,OLED,Circle,White,"Bluetooth, Wi-Fi",1.2,390 x 390,5,Yes,Yes,Yes,148230
+Montblanc,Summit 2+,Wear OS,AMOLED,Rectangle,Black,"Bluetooth, Wi-Fi, Cellular",1.28,416 x 416,30,Yes,Yes,Yes,332100
+Mobvoi,TicWatch E3,Wear OS,IPS LCD,Square,Black,"Bluetooth, Wi-Fi",1.3,360 x 360,20,Yes,Yes,Yes,53730
+Casio,G-Shock GBD-H1000,Casio OS,LCD,Circle,Black,"Bluetooth, Wi-Fi",1.2,360 x 360,30,Yes,Yes,No,107730
+Honor,MagicWatch 2,Lite OS,AMOLED,Circle,Grey,"Bluetooth, Wi-Fi",1.39,454 x 454,30,Yes,Yes,Yes,42930
+Xiaomi,Mi Watch Revolve,Proprietary,AMOLED,Rectangle,Black,"Bluetooth, Wi-Fi",1.39,454 x 454,20,Yes,Yes,Yes,40230
+Polar,Ignite 2,Polar OS,IPS LCD,Square,Black,"Bluetooth, Wi-Fi",1.2,240 x 240,10,Yes,Yes,Yes,61830
+Suunto,9 Peak,Suunto OS,Transflective,Rectangle,Black,"Bluetooth, Wi-Fi",1.4,320 x 300,5,Yes,Yes,Yes,188730
+Garmin,Instinct,Garmin OS,Monochrome,Circle,Grey,"Bluetooth, Wi-Fi",0.9,128 x 128,30,Yes,Yes,No,80730
+Amazfit,T-Rex Pro,Amazfit OS,AMOLED,Rectangle,Rose Gold,"Bluetooth, Wi-Fi",1.3,360 x 360,10,Yes,Yes,Yes,48330
+Fossil,Sport,Wear OS,AMOLED,Rectangle,White,"Bluetooth, Wi-Fi",1.2,390 x 390,10,Yes,Yes,Yes,59130
+TicWatch,C2+,Wear OS,AMOLED,Rectangle,Black,"Bluetooth, Wi-Fi",1.3,360 x 360,30,Yes,Yes,Yes,56430
+Huawei,Watch GT 2,Lite OS,AMOLED,Circle,Silver,"Bluetooth, Wi-Fi",1.39,454 x 454,20,Yes,Yes,Yes,48330
+Michael Kors,Access Runway,Wear OS,AMOLED,Circle,Black,"Bluetooth, Wi-Fi",1.19,390 x 390,5,Yes,Yes,Yes,94230
+Skagen,Falster 3,Wear OS,OLED,Circle,White,"Bluetooth, Wi-Fi",1.3,328 x 328,30,Yes,Yes,Yes,79650
+Mobvoi,TicWatch E2,Wear OS,LCD,Circle,Black,"Bluetooth, Wi-Fi",1.39,400 x 400,10,Yes,Yes,Yes,42930
+TAG Heuer,Connected,Wear OS,OLED,Rectangle,Black,"Bluetooth, Wi-Fi, Cellular",1.39,454 x 454,30,Yes,Yes,Yes,486000
+Asus,ZenWatch 3,Android Wear,AMOLED,Circle,Rose Gold,"Bluetooth, Wi-Fi",1.39,400 x 400,5,Yes,Yes,No,61830
+Honor,MagicWatch 2,Lite OS,AMOLED,Circle,Rose Gold,"Bluetooth, Wi-Fi",1.39,454 x 454,5,Yes,Yes,Yes,53730
+Xiaomi,Mi Watch,MIUI,AMOLED,Rectangle,Black,"Bluetooth, Wi-Fi, Cellular",1.78,368 x 448,30,Yes,Yes,Yes,107730
+Polar,Ignite,Polar OS,IPS,Circle,Black,"Bluetooth, Wi-Fi",1.2,240 x 240,5,Yes,Yes,Yes,53730
+Garmin,Vivoactive 4,Garmin OS,Transflective,Rectangle,Black,"Bluetooth, Wi-Fi",1.3,260 x 260,30,Yes,Yes,Yes,94230
+Misfit,Vapor X,Wear OS,AMOLED,Rectangle,Black,"Bluetooth, Wi-Fi",1.19,390 x 390,10,Yes,Yes,Yes,75330
+Mobvoi,TicWatch Pro 3,Wear OS,AMOLED,Rectangle,Blue,"Bluetooth, Wi-Fi",1.4,454 x 454,20,Yes,Yes,Yes,80730
+Casio,Pro Trek F30,Wear OS,OLED,Circle,Black,"Bluetooth, Wi-Fi",1.2,390 x 390,20,Yes,Yes,No,148230
+Diesel,On Axial,Wear OS,AMOLED,Rectangle,White,"Bluetooth, Wi-Fi",1.28,328 x 328,30,Yes,Yes,Yes,79650
+Emporio Armani,Smartwatch 3,Wear OS,AMOLED,Rectangle,Black,"Bluetooth, Wi-Fi",1.28,328 x 328,10,Yes,Yes,Yes,101250
+Misfit,Vapor 2,Wear OS,AMOLED,Circle,Black,"Bluetooth, Wi-Fi",1.2,360 x 360,30,Yes,Yes,Yes,67230
+Mobvoi,TicWatch C2+,Wear OS,AMOLED,Rectangle,Grey,"Bluetooth, Wi-Fi",1.3,360 x 360,10,Yes,Yes,Yes,56430
+Motorola,Moto 360,Wear OS,OLED,Circle,White,"Bluetooth, Wi-Fi",1.2,390 x 390,30,Yes,Yes,Yes,80730
+Nokia,Steel HR,Proprietary OS,OLED,Square,Rose Gold,"Bluetooth, Wi-Fi",1.36,160 x 160,5,Yes,No,Yes,48330
+Skagen,Falster 3,Wear OS,AMOLED,Circle,Black,"Bluetooth, Wi-Fi",1.3,328 x 328,20,Yes,Yes,Yes,79650
+Sony,SmartWatch 3,Android Wear,Transflective,Rectangle,Black,"Bluetooth, Wi-Fi",1.6,320 x 320,30,Yes,Yes,No,67230
+TAG Heuer,Connected Modular 45,Android Wear,OLED,Circle,Silver,"Bluetooth, Wi-Fi",1.39,400 x 400,10,Yes,Yes,Yes,324000
+Montblanc,Summit 2,Wear OS,AMOLED,Circle,Black,"Bluetooth, Wi-Fi",1.2,390 x 390,30,Yes,Yes,Yes,315900
+Xiaomi,Mi Watch Revolve,Proprietary OS,AMOLED,Square,Black,"Bluetooth, Wi-Fi",1.39,454 x 454,30,Yes,Yes,Yes,34830
+Honor,Watch GS Pro,Lite OS,AMOLED,Circle,White,"Bluetooth, Wi-Fi",1.39,454 x 454,10,Yes,Yes,Yes,67230
+Mobvoi,TicWatch E3,Wear OS,IPS LCD,Rectangle,Silver,"Bluetooth, Wi-Fi",1.3,360 x 360,30,Yes,Yes,Yes,53730
+Zepp,Z Titanium,Proprietary OS,AMOLED,Square,Black,"Bluetooth, Wi-Fi",1.39,454 x 454,5,Yes,Yes,Yes,94230
+LG,Watch W7,Wear OS,IPS LCD,Rectangle,White,"Bluetooth, Wi-Fi",1.2,360 x 360,30,Yes,Yes,Yes,67230
+Skagen,Falster 3,Wear OS,OLED,Square,Black,"Bluetooth, Wi-Fi",1.3,328 x 328,30,Yes,Yes,Yes,79650
+Misfit,Vapor X,Wear OS,AMOLED,Circle,Black,"Bluetooth, Wi-Fi",1.19,390 x 390,20,Yes,Yes,Yes,53730
+Withings,ScanWatch,Withings OS,PMOLED,Rectangle,Black,"Bluetooth, Wi-Fi",1.38,348 x 442,5,Yes,Yes,Yes,75330
+Casio,Pro Trek Smart WSD-30F,Wear OS,LCD,Rectangle,Black,"Bluetooth, Wi-Fi",1.32,320 x 300,10,Yes,Yes,Yes,107730
+Timex,Metropolitan R AMOLED,Timex OS,AMOLED,Square,Grey,"Bluetooth, Wi-Fi",1.2,390 x 390,20,Yes,No,Yes,48330
+Garmin,Instinct Solar,Garmin OS,Monochrome,Rectangle,Black,"Bluetooth, Wi-Fi",0.9,128 x 128,30,Yes,Yes,No,107730
+Mobvoi,TicWatch E3,Wear OS,LCD,Square,Black,"Bluetooth, Wi-Fi",1.3,360 x 360,10,Yes,Yes,Yes,53730
+Amazfit,GTR 2,Amazfit OS,AMOLED,Rectangle,Black,"Bluetooth, Wi-Fi",1.39,454 x 454,10,Yes,Yes,Yes,48330
+Garmin,Venu Sq Music,Garmin OS,LCD,Circle,Silver,"Bluetooth, Wi-Fi",1.3,240 x 240,30,Yes,Yes,Yes,67230
+Samsung,Galaxy Watch,Tizen OS,Super AMOLED,Circle,Blue,"Bluetooth, Wi-Fi, Cellular",1.3,360 x 360,30,Yes,Yes,Yes,69930
+Suunto,9 Peak,Suunto OS,Transflective,Circle,Black,"Bluetooth, Wi-Fi",1.2,240 x 240,5,Yes,Yes,No,153630
+Honor,MagicWatch 2,Lite OS,AMOLED,Rectangle,Black,"Bluetooth, Wi-Fi",1.39,454 x 454,30,Yes,Yes,Yes,42930
+TicWatch,Pro 3,Wear OS,AMOLED,Rectangle,Black,"Bluetooth, Wi-Fi, Cellular",1.4,454 x 454,20,Yes,Yes,Yes,80730
+Garmin,Lily,Garmin OS,LCD,Rectangle,Silver,"Bluetooth, Wi-Fi",1,240 x 201,20,Yes,Yes,Yes,53730
+Fitbit,Ionic,Fitbit OS,LCD,Rectangle,Black,"Bluetooth, Wi-Fi, Cellular",1.42,348 x 250,10,Yes,Yes,Yes,80730
+Huawei,Watch GT 2e,Lite OS,AMOLED,Circle,Blue,"Bluetooth, Wi-Fi",1.39,454 x 454,20,Yes,No,Yes,37530
+Fossil,Sport,Wear OS,AMOLED,Rectangle,Black,"Bluetooth, Wi-Fi",1.2,390 x 390,10,Yes,Yes,Yes,40230
+Michael Kors,Access Runway,Wear OS,AMOLED,Rectangle,Black,"Bluetooth, Wi-Fi",1.19,390 x 390,30,Yes,Yes,Yes,94230
+Asus,ZenWatch 3,Android Wear,AMOLED,Rectangle,Silver,"Bluetooth, Wi-Fi",1.39,400 x 400,10,Yes,Yes,No,61830
+Mobvoi,TicWatch Pro 3,Wear OS,AMOLED,Square,Black,"Bluetooth, Wi-Fi",1.4,454 x 454,30,Yes,Yes,Yes,80730
+Skagen,Falster 2,Wear OS,AMOLED,Rectangle,Silver,"Bluetooth, Wi-Fi",1.19,390 x 390,20,Yes,Yes,Yes,79650
+Nokia,Steel HR,Proprietary OS,PMOLED,Circle,Black,Bluetooth,1.1,126 x 36,20,Yes,No,Yes,48330
+Misfit,Vapor X,Wear OS,AMOLED,Circle,Black,"Bluetooth, Wi-Fi",1.19,328 x 328,30,Yes,Yes,Yes,75330
+Kate Spade,Scallop 2,Wear OS,AMOLED,Circle,Rose Gold,"Bluetooth, Wi-Fi",1.19,390 x 390,20,Yes,Yes,Yes,79650
+Diesel,On Full Guard 2.5,Wear OS,AMOLED,Square,Grey,"Bluetooth, Wi-Fi",1.39,454 x 454,5,Yes,Yes,Yes,87750
+Matrix,PowerWatch 2,Proprietary OS,LCD,Rectangle,Rose Gold,Bluetooth,1.2,228 x 172,10,Yes,Yes,No,134730
+TicWatch,C2,Wear OS,AMOLED,Circle,Blue,"Bluetooth, Wi-Fi",1.3,360 x 360,5,Yes,Yes,Yes,53730
+Mobvoi,TicWatch S2,Wear OS,AMOLED,Square,Grey,"Bluetooth, Wi-Fi",1.39,400 x 400,30,Yes,Yes,Yes,48330
+Amazfit,GTR 2e,Amazfit OS,AMOLED,Circle,Black,"Bluetooth, Wi-Fi",1.39,454 x 454,20,Yes,Yes,Yes,37530
+Apple,Watch Series 6,watchOS,Retina,Rectangle,Silver,"Bluetooth, Wi-Fi, Cellular",1.78,368 x 448,20,Yes,Yes,Yes,107730
+Fitbit,Ionic,Fitbit OS,LCD,Circle,Blue,"Bluetooth, Wi-Fi",1.42,348 x 250,5,Yes,Yes,Yes,67230
+Garmin,Enduro,Garmin OS,Transflective,Circle,Black,"Bluetooth, Wi-Fi",1.4,280 x 280,20,Yes,Yes,Yes,215730
+Huawei,Watch GT 2 Pro,Lite OS,AMOLED,Circle,Silver,"Bluetooth, Wi-Fi",1.39,454 x 454,30,Yes,Yes,Yes,80730
+Oppo,Watch 2 ECG Edition,ColorOS,AMOLED,Circle,Black,"Bluetooth, Wi-Fi, Cellular",1.75,372 x 430,10,Yes,Yes,Yes,80730
+Suunto,9 Peak,Suunto OS,Transflective,Square,Silver,"Bluetooth, Wi-Fi",1.2,320 x 300,20,Yes,Yes,No,134730
+TicWatch,E3,Wear OS,LCD,Rectangle,Black,"Bluetooth, Wi-Fi",1.3,360 x 360,5,Yes,Yes,Yes,53730
+Fossil,Sport,Wear OS,AMOLED,Rectangle,Rose Gold,"Bluetooth, Wi-Fi",1.2,390 x 390,20,Yes,Yes,Yes,80730
+Samsung,Gear S3 Frontier,Tizen OS,Super AMOLED,Circle,White,"Bluetooth, Wi-Fi",1.3,360 x 360,20,Yes,Yes,Yes,80730
+Amazfit,GTR 2,Amazfit OS,AMOLED,Square,Black,"Bluetooth, Wi-Fi",1.39,454 x 454,20,Yes,Yes,Yes,48330
+Garmin,Venu Sq,Garmin OS,LCD,Rectangle,Black,"Bluetooth, Wi-Fi",1.3,240 x 240,20,Yes,Yes,Yes,48330
+Xiaomi,Mi Watch Revolve,Proprietary OS,AMOLED,Square,White,"Bluetooth, Wi-Fi",1.39,454 x 454,30,Yes,Yes,Yes,32130
+Skagen,Falster 3,Wear OS,OLED,Rectangle,Black,"Bluetooth, Wi-Fi",1.3,328 x 328,20,Yes,Yes,Yes,79650
+Michael Kors,Access Bradshaw 2,Wear OS,AMOLED,Rectangle,Black,"Bluetooth, Wi-Fi",1.28,416 x 416,5,Yes,Yes,Yes,94500
+Casio,G-Shock GSW-H1000,Wear OS,LCD,Square,Black,"Bluetooth, Wi-Fi",1.2,360 x 360,30,Yes,Yes,No,188730
+Mobvoi,TicWatch E3,Wear OS,IPS LCD,Circle,White,"Bluetooth, Wi-Fi",1.3,360 x 360,10,Yes,Yes,Yes,53730
+Withings,ScanWatch,Withings OS,PMOLED,Circle,Silver,"Bluetooth, Wi-Fi",1.38,348 x 442,5,Yes,No,Yes,75330
+Zepp,Z,Zepp OS,AMOLED,Circle,Black,"Bluetooth, Wi-Fi, Cellular",1.39,454 x 454,30,Yes,Yes,Yes,94230
+Honor,Watch GS Pro,Lite OS,AMOLED,Rectangle,Black,"Bluetooth, Wi-Fi",1.39,454 x 454,20,Yes,Yes,Yes,67230
+Oppo,Watch Free,ColorOS,AMOLED,Circle,Black,"Bluetooth, Wi-Fi",1.64,326 x 326,30,Yes,No,Yes,42930
+TicWatch,Pro 3,Wear OS,AMOLED,Circle,Blue,"Bluetooth, Wi-Fi, Cellular",1.4,454 x 454,5,Yes,Yes,Yes,80730
